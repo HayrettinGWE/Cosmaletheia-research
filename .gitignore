@@ -1,0 +1,28 @@
+# Local/private material
+.private/
+private/
+corpus-local/
+raw/
+exports/
+runs/
+*.local.*
+
+# Credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
