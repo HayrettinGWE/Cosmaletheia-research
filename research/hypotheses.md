@@ -19,3 +19,16 @@ Stable behavior should be assessed through predefined observables and repeated r
 
 ## H6 — Analogy has a breaking point
 Cross-domain analogies become scientifically useful only when the point at which they fail can also be specified.
+
+## Connections to the formal candidates
+
+The following are proposed research connections, not derivations or evidence for H1–H6:
+
+| Candidate | Hypothesis connection | Evaluation proposal |
+|---|---|---|
+| FC-01 — boundary/difference/event | H1/H2 | TFC-01 within E5/E6 |
+| FC-02 — temporal decision surface | H1/H2 | TFC-02 within E1/E5/E6 |
+| FC-03 — bounded boundary variation | H3/H4 | TFC-03 within E3/E4 |
+| FC-04 — separately bound alternatives | H1/H3 | TFC-04 within E1/E2/E5 |
+
+H5 and H6 constrain all four evaluations: use defined measurements and retain counterexamples. Read [formal candidates](formal-candidates.md) for meanings and source limits, and [test specifications](../experiments/formal-candidate-tests.md) for baselines and failure conditions. No hypothesis is promoted by adding these links.
